@@ -19,13 +19,13 @@ m_to_e = {
     }
 
 print("""Please select the following:
-M for Morse-to-English, or """)
-morse_original = input("E for English-to-Morse: ")
+M for Morse-to-Letters, or """)
+morse_original = input("L for Letters-to-Morse: ")
 morse = morse_original.lower()
 
 output = ""
 
-if morse == 'e':
+if morse == 'l':
     code_input = input("""Please write/paste sentence here:
 : """)
     code = code_input.lower()
