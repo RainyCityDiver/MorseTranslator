@@ -17,7 +17,7 @@ TO START:
 
 FOR MORSE-TO-ENGLISH:
 Please Note: The input only accepts hyphens ("-") as dashes, and periods (".") as dots at this time. 
-Please Note: Spaces are supported.
+Please Note: Spaces are allowed.
 1) After selecting Morse-to-Letter, type or copy-paste the string of morse code you wish to convert to English when prompted.
 2) If necessary; separate each letter with a space. Morse letters are between 2 and 4 dots and/or dashes long. 
   a) If you enter '--.-', the program will return 'q'. If you meant to type '--' '.-', for 'm a' the program can't tell which you intended, unless spaces are used properly.
